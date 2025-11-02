@@ -12,7 +12,7 @@ and their cluttered design makes it a nightmare to find anything.
 * **Docker**. Available to be launched in docker
 * **Free**. Completely free and open source
 * **Adfree** No advertisements
-* **Design** Modern design and unnecessary clutter
+* **Design** Modern design and no unnecessary clutter
 
 ## Getting started
 
